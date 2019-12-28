@@ -1,0 +1,365 @@
+/* 
+* @Author: Administrator
+* @Date:   2019-12-27 09:04:03
+* @Last Modified by:   Administrator
+* @Last Modified time: 2019-12-28 21:44:42
+*/
+*{
+	margin:0;
+	padding: 0;
+}
+body{
+	margin-left: 40px;
+	width: 1440px;
+}
+.logo{
+	width: 1440px;
+	height: 96px;
+}
+.logo div img{
+	float: left;
+}
+.logo div p{
+	float: right;
+	margin-right: 227px;
+}
+.logo div p img {
+	float: right;
+	margin-left: 13px;
+}
+.logo div a img{
+	margin-top: 18px;
+	margin-left: 326px;
+}
+.nav{
+	width: 1440px;
+	height: 52px;
+	background: #4B4A48;
+	
+}
+.nav ul{
+	margin-left: 149px;
+}
+.nav ul a:hover{
+	color: #FFFFFF;
+	background-color: #EF8D18;
+}
+.nav ul a{
+	width: 120px;
+	height: 52px;
+	color: #FFFFFF;
+	font-size: 14px;
+	font-family: '微软雅黑';
+	line-height: 52px;
+	display: inline-block;
+	text-align: center;
+}
+.dada{
+	margin-left: 50px;
+}
+.rmcx{
+	width: 814px;
+	margin-left: 149px;
+	float: left;
+	margin-bottom: 10px;
+	line-height: 40px;
+}
+.rmcx p span{
+	margin-left: 700px;
+}
+.rmcx p {
+	border-bottom: 1px solid #4B4A48;
+}
+.rmcx ul li{
+	width: 250px;
+	height: 166px;
+	border: 1px solid #DDDDDD;
+	float: left;
+}
+.rmcxq ul li{
+	width: 250px;
+	height: 166px;
+	border: 1px solid #DDDDDD;
+	float: left;
+	margin-right: 18px;
+	margin-top: 20px;
+	text-align: center;
+	font-size: 12px;
+	font-family: '微软雅黑';
+}
+.rmcxq ul li a{
+	text-align: center;
+	font-size: 12px;
+	font-family: '微软雅黑';
+
+}
+.rmcxy p{
+	float: left;
+	margin-right: 5px;
+	border-bottom: 1px solid  #4B4A48;
+}
+.rmcxy p{
+	font-size: 20px;
+	font-family: '微软雅黑';
+	color: #EF8D18;
+	line-height: 38px;
+}
+.rmcxy p span {
+	margin-left: 190px;
+	font-size: 12px;
+	font-family: '微软雅黑';
+	color: black;
+}
+.rmcxy a{
+	display: inline-block;
+	width: 133px;
+	height: 130px;
+	background: #F8931F;
+	text-align: center;
+	line-height: 130px;
+	font-size: 20px;
+	font-family: '微软雅黑';
+	color: #FFFFFF;
+	float: left;
+}
+.rmcxy ul {
+	height: 200px;
+	width: 310px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 15px;
+}
+.rmcxy ul li{
+	float: left;
+	width: 166px;
+	height: 62px;
+	margin-bottom: 5px;
+	background: #F15A25;
+	margin-left: 6px;
+	line-height: 62px;
+	font-size: 20px;
+	font-family: '微软雅黑';
+	color: #FFFFFF;
+	text-align: center;
+}
+.qwe{
+	width:80px;
+	height: 63px;
+	display: inline-block;
+	background-color: #01A89E;
+	text-align: center;
+}
+.qwe{
+	width: 80px;
+	height: 63px;
+	background: #01A89E;
+}
+.asd{
+	width: 80px;
+	height: 63px;
+	background: #01A89E;
+}
+.poi{
+	width: 80px;
+	height: 63px;
+}
+.io{
+	width: 80px;
+	height: 63px;
+	background-color: #01A89E;
+	display: inline-block;
+	color: #ffffff;
+	text-align: center;
+	line-height: 63px;
+}
+.ioo{
+	width: 80px;
+	height: 63px;
+	background-color: #F15A25;
+	display: inline-block;
+	color: #ffffff;
+	text-align: center;
+	line-height: 63px;
+}
+.iooo{
+	width: 135px;
+	height: 63px;
+	background-color: #F8931F;
+	display: inline-block;
+	color: #ffffff;
+	text-align: center;
+	line-height: 63px;
+}
+.dzhx{
+	width: 1140px;
+	height: 70px;
+	border: 1px solid #DDDDDD;
+	margin-left: 150px;
+	margin-top: 25px;
+}
+.dzhx p{
+	font-size: 20px;
+}
+.dzhx a p{
+	font-size: 12px;
+}
+.dzhx a {
+	margin-left: 80px;
+	margin-right: 180px;
+	margin-top: 15px;
+	float: left;
+}
+.dzhx span{
+	width: 40px;
+	height: 40px;
+	background: #F08D18;
+	border-radius: 50%;
+	display: inline-block;
+	text-align: center;
+	line-height: 40px;
+	float: left;
+	margin-bottom: 10px;
+}
+.thhd p{
+	margin-left: 150px;
+	width: 814px;
+	border-bottom: 5px solid red;
+	margin-top: 20px;
+	font-size: 18px;
+	font-family: '微软雅黑';
+	float: left;
+}
+.thhd  span{
+	float: right;
+}
+.thhd ul{
+	margin-left: 150px;
+	margin-top: 15px;
+	width: 811px;
+	float: left;
+}
+.thhd{
+	float: left;
+}
+.thhd ul li{
+	float: left;
+	margin-right: 30px;
+	margin-bottom: 38px;
+}
+.thhdy{
+	height: 341px;
+	float: right;
+	margin-right: 100px;
+}
+.thhdy p{
+	float: left;
+	font-size: 20px;
+	font-family: '微软雅黑';
+	border-bottom: 5px solid red;
+}
+.thhdy p span{
+	font-size: 12px;
+	font-family: '微软雅黑';
+	color: #EF8D18;
+	margin-left: 193px;
+}
+.thhdy ul li{
+	font-family: '微软雅黑';
+	font-size: 12px;
+}
+.thhdy ul{
+	margin-top: 40px;
+}
+.thhdy ul li{
+	margin-top: 18px;
+	margin-left: 15px;
+}
+.thhdy {
+	margin-top: -331px;
+}
+.asdf{
+	width: 1139px;
+}
+.asdf p{
+	margin-left: 150px;
+	border-bottom:3px solid red;
+}
+.yu p{
+	margin-left: 150px;
+	font-family: '微软雅黑';
+	font-size: 20px;
+	color: #EF8D18;
+	width: 1139px;
+	border-bottom:2px solid black;
+}
+.yu a{
+	margin-left: 150px;
+	font-size: 12px;
+	margin-top: 15px;
+}
+hr{
+	height: 6px;
+	width: 1440px;
+	background-color: #F08D18;
+	margin-top: 16px;
+}
+.ziohou{
+	width: 1440px;
+	height: 256px;
+	background: #4B4A48;
+}
+.ziohou p{
+	
+	color: #ffffff;
+	padding-top: 17px;
+}
+.ziohou p span{
+	margin-right: 114px;
+	font-size: 16px;
+	font-family: '微软雅黑';
+	color: #ffffff;
+}
+.ziohou ul li {
+	float: left;
+	margin-left: -1px;
+}
+.ziohou ul li p{
+		font-size: 12px;
+}
+.ziohouq{
+	margin-left: 150px;
+}
+.ziohou ul {
+	margin-left: 149px;
+	margin-top: -90px;
+}
+.ziohou ul li {
+	margin-right: 122px;
+}
+.plm{
+	margin-left: 170px;
+}
+.ziohou div{
+	margin-top: 52px;
+}
+.ziohou div a{
+	margin-left: 150px;
+	color: #ffffff;
+	font-family: '微软雅黑';
+	font-size: 12px;
+}
+.ziohou div a span{
+	float: right;
+	margin-right: 150px;
+	
+}
+.ziohou div hr{
+	width: 1099px;
+	border: 1px dashed #F08D18;
+	margin-left: 150px;
+}
+.ziohou div p{
+	margin-left: 150px;
+	font-size: 12px;
+	margin-top: -10px;
+}
